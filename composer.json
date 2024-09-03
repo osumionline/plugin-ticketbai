@@ -1,5 +1,5 @@
 {
-  "name": "osumionline/plugin-pdf",
+  "name": "osumionline/plugin-ticketbai",
   "description": "Plugin OTicketBai para Osumi Framework",
   "version": "2.0.0",
   "type": "library",
